@@ -1,3 +1,4 @@
+//author: Mike Mandia
 package edu.psu.abington.ist.ist242;
 import java.util.ArrayList;
 public class SalesAssociate extends User {
